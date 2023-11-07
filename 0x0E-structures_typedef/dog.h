@@ -3,7 +3,7 @@
 
 
 /**
- * strut dog - basic information of a dog
+ * struct dog - basic information of a dog
  * @name: name of a dog
  * @age: age of a dog
  * @owner: the dog's owner
